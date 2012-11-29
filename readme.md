@@ -4,7 +4,8 @@ I've recently decided I want my editor to translate all tabs into spaces.  It ma
 
 ## Install
 
-* Open up terminal and run ``cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages``
+* Open up terminal.
+* Move to packges folder: ``cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages``
 * Clone my repo: ``git clone https://github.com/swt83/sublime-tabs2spaces.git swt83``
 
 That's it.  You're done.
